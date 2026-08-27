@@ -41,7 +41,7 @@ shiftect.の設計の核心は、「探索対象」と「固定対象」の分�
 
 shiftect.は、変更が必要な範囲だけを探索対象として指定し、確定済みの配置を固定対象として維持したまま、必要な部分だけを再生成する。
 
-全体生成・部分再生成・個別の自動配置は別々の機能ではない。「探索対象と固定対象をどう分けるか」という入力構成の切り替えによって、同じエンジンが処理する。この構造がshiftect.の特許出願中の技術の核心だ。
+全体生成・部分再生成・個別の自動配置は別々の機能ではない。「探索対象と固定対象をどう分けるか」という入力構成の切り替えによって、同じエンジンが処理する。この構造がshiftect.の特許技術の核心だ。
 
 ### 業種横断的な適用
 
@@ -103,7 +103,7 @@ Instead, shiftect. designates only the affected assignments as Search Targets wh
 
 Initial schedule generation, partial regeneration, and automatic reassignment are therefore not separate functions. They are all performed by the same scheduling engine, with different Input Configurations determining which assignments are searchable and which remain fixed.
 
-This architecture forms the core of the technology currently under patent application for shiftect.
+This architecture forms the core of shiftect.'s patented technology.
 
 ### A Cross-Industry Technology
 
