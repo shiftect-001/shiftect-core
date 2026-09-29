@@ -43,6 +43,8 @@ shiftect.は、変更が必要な範囲だけを探索対象として指定し�
 
 全体生成・部分再生成・個別の自動配置は別々の機能ではない。「探索対象と固定対象をどう分けるか」という入力構成の切り替えによって、同じエンジンが処理する。この構造がshiftect.の特許技術の核心だ。
 
+本リポジトリで扱うスケジューリング技術の基盤技術は、[**特許第7926298号**](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2026-026989/10/ja)として登録されています。
+
 ### 業種横断的な適用
 
 この構造は特定の業種に限定されない。
@@ -104,6 +106,8 @@ Instead, shiftect. designates only the affected assignments as Search Targets wh
 Initial schedule generation, partial regeneration, and automatic reassignment are therefore not separate functions. They are all performed by the same scheduling engine, with different Input Configurations determining which assignments are searchable and which remain fixed.
 
 This architecture forms the core of shiftect.'s patented technology.
+
+The core scheduling technology described in this repository is protected by [**Japanese Patent No. 7,926,298**](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2026-026989/10/ja).
 
 ### A Cross-Industry Technology
 
