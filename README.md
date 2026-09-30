@@ -45,6 +45,8 @@ shiftect.は、変更が必要な範囲だけを探索対象として指定し�
 
 本リポジトリで扱うスケジューリング技術の基盤技術は、[**特許第7926298号**](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2026-026989/10/ja)として登録されています。
 
+特許取得に関するプレスリリース：[シフテクト株式会社が特許取得　独自スケジューリング技術を基盤に事業展開へ](https://prtimes.jp/main/html/rd/p/000000004.000190447.html)
+
 ### 業種横断的な適用
 
 この構造は特定の業種に限定されない。
@@ -108,6 +110,8 @@ Initial schedule generation, partial regeneration, and automatic reassignment ar
 This architecture forms the core of shiftect.'s patented technology.
 
 The core scheduling technology described in this repository is protected by [**Japanese Patent No. 7,926,298**](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2026-026989/10/ja).
+
+Press Release: [Shiftect Inc. Obtains Patent for Its Core Scheduling Technology](https://prtimes.jp/main/html/rd/p/000000004.000190447.html)
 
 ### A Cross-Industry Technology
 
